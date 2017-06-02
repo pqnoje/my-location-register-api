@@ -1,0 +1,64 @@
+db.users.insertMany([{
+	email: "fulano@empresa.com.br",
+	name: "Fulano da Silva",
+	password: "senha123",
+	confirmPassword: "senha123",
+	phone: "5511910101212",
+	company: 1
+},{
+	email: "fulano@empresa.com.br",
+	name: "Fulano da Silva",
+	password: "senha123",
+	confirmPassword: "senha123",
+	phone: "5511910101212",
+	company: 1
+},{
+	email: "fulano@empresa.com.br",
+	name: "Fulano da Silva",
+	password: "senha123",
+	confirmPassword: "senha123",
+	phone: "5511910101212",
+	company: 1
+},{
+	email: "fulano@empresa.com.br",
+	name: "Fulano da Silva",
+	password: "senha123",
+	confirmPassword: "senha123",
+	phone: "5511910101212",
+	company: 1
+},{
+	email: "fulano@empresa.com.br",
+	name: "Fulano da Silva",
+	password: "senha123",
+	confirmPassword: "senha123",
+	phone: "5511910101212",
+	company: 1
+},{
+	email: "fulano@empresa.com.br",
+	name: "Fulano da Silva",
+	password: "senha123",
+	confirmPassword: "senha123",
+	phone: "5511910101212",
+	company: 1
+},{
+	email: "fulano@empresa.com.br",
+	name: "Fulano da Silva",
+	password: "senha123",
+	confirmPassword: "senha123",
+	phone: "5511910101212",
+	company: 1
+},{
+	email: "fulano@empresa.com.br",
+	name: "Fulano da Silva",
+	password: "senha123",
+	confirmPassword: "senha123",
+	phone: "5511910101212",
+	company: 1
+}-a,{
+	email: "fulano@empresa.com.br",
+	name: "Fulano da Silva",
+	password: "senha123",
+	confirmPassword: "senha123",
+	phone: "5511910101212",
+	company: 1
+}])

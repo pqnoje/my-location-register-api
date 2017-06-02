@@ -1,0 +1,7 @@
+{
+  "clusters": {
+  	"users": "mongodb://localhost:6000/data",
+  	"auth": "mongodb://localhost:6000/data"
+  },
+  "tokenSecret": "mylittltinyesecret"
+}
